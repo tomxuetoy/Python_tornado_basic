@@ -1,0 +1,4 @@
+python ex.py
+
+Firefox:
+    visit localhost:8888
